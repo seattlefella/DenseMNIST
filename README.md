@@ -1,13 +1,13 @@
-**Character recognition with a dense neural network implermented in TensorFlow and Keras.**
+**Character recognition with a dense neural network implemented in TensorFlow and Keras.**
 by @Seattlefella
 ========
 
-This project is my realization of a dense neural network to decode the MNIST handwrithting data set.
+This project is my realization of a dense neural network to decode the MNIST handwriting data set.
 
 The tensorflow only solution demonstrates how to set up the variables, output data to tensorboard
 and scores 98.0 to 98.5% accuracy.
 
-The keras soulution implements a number of optional features that the user 
+The keras solution implements a number of optional features that the user 
 may find useful.
 
 This work book expects to read from an excel work book all of the data that will be needed to run the selected model. Once all runs are completed the session data will be saved to a results tab in the workbook.
