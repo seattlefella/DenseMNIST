@@ -1,0 +1,51 @@
+# =============== #
+# models & logs#
+# =============== #
+*.HDF5
+*.H5
+*.h5
+*.hdf5
+*.p
+logs
+logs/
+tb_logs/
+# =============== #
+# Data available from many sources#
+# =============== #
+MNIST_data/
+
+# =============== #
+# PyCharm & Jupyter notebook#
+# =============== #
+__pycache__
+Graph
+.ipynb_checkpoints/
+.idea/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+obj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
